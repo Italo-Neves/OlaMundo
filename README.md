@@ -1,6 +1,7 @@
 # Olá, Mundo
- **Primeiro repositorio** versionado do curso de *Git e github*
+ __Primeiro repositorio__ versionado do curso de _Git e github_
 
 repositorio criado durante uma aula ao vivo.
 
-Essa linha foi editada no site
+~~Essa linha foi editada no site~~
+## testando Markdown
